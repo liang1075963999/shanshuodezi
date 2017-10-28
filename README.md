@@ -1,0 +1,1 @@
+使用方式在MyFlashTextView.java文件中
